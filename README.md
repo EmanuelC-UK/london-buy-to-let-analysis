@@ -19,7 +19,6 @@ Flat has the highest yield of the four property types (6.31%) — but lost value
 
 ## Deliverables
 
-- [Dashboard preview](./dashboard-preview.png)
 <img width="2730" height="1534" alt="Dashboard" src="https://github.com/user-attachments/assets/485a7fbe-f2eb-4a55-a5d8-0f8e65d8a363" />
 
 - [**Live Interactive Dashboard**](https://public.tableau.com/views/Project2_17866582578040/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) — Tableau Public

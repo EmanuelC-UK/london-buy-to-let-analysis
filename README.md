@@ -2,9 +2,10 @@
 
 Where should a £1.5M budget go across 32 London districts and 4 property types — and does the highest-yielding option always win?
 
-**Recommendation: Semi-Detached in Barking & Dagenham** — the strongest combined result of 120 scored District × Property Type combinations.
+**Recommendation: Semi-Detached in Barking & Dagenham** — the strongest combined result of 120 ranked District × Property Type combinations.
 
-## Key Results
+
+## Key Results — Semi-Detached, Barking & Dagenham
 
 | Metric | Value |
 |---|---|
@@ -13,9 +14,11 @@ Where should a £1.5M budget go across 32 London districts and 4 property types 
 | Combined Rank | 1 of 120 |
 | £1.5M Buys | 3 units (£1,339,575), ~£160,000 in reserve |
 
+
 ## Why Not the Highest Yield?
 
 Flat has the highest yield of the four property types (6.31%) — but lost value over five years (-1.67% CAGR). Every combination was ranked on yield *and* growth together; no single metric decided the winner alone.
+
 
 ## Deliverables
 
@@ -26,6 +29,7 @@ Flat has the highest yield of the four property types (6.31%) — but lost value
 - [Presentation Deck](./presentation.pdf)
 - [Executive Brief](./executive-brief.pdf)
 - [Full Documentation](./documentation.pdf)
+
 
 ## Tools & Data
 

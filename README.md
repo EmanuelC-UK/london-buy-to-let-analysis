@@ -1,4 +1,4 @@
-# London Buy-to-Let Investment Analysis
+# London Buy-to-Let Capital Allocation Analysis
 
 Where should a £1.5M budget go across 32 London districts and 4 property types — and does the highest-yielding option always win?
 
